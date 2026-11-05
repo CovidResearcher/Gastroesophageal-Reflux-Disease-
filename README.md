@@ -7,7 +7,7 @@ Mechanical fundic ballooning → exaggerated vagal afferent traffic → brainste
 
 In plain language:
 
-Severe GERD is framed as a nerve disorder (vagus–phrenic coordination failure) rather than a primary stomach-acid disorder. Persistent or rhythmic distension of the gastric fundus is proposed to drive a self-reinforcing feedback loop of inappropriate transient lower-esophageal-sphincter relaxations (TLESRs) and loss of crural-diaphragm tone.  
+Severe GERD is framed as a nerve disorder (vagus–phrenic coordination failure) rather than a primary stomach-acid disorder. Persistent or rhythmic distension of the gastric fundus is proposed to drive a self-reinforcing overeactive feedback loop of  transient lower-esophageal-sphincter relaxations (TLESRs) and loss of crural-diaphragm tone.  
 
 # Vagus-Phrenic Rhythmic Feedback-Loop
 
