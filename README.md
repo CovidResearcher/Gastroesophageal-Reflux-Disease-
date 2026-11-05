@@ -3,11 +3,9 @@ An alternative self-diagnosable holistic hypothesis for the GERD stomach disorde
 
 This repository documents a proposed neuromuscular hypothesis for severe gastroesophageal reflux and provides simple, pure-Python simulations of the hypothesized causal chain. It also includes a short comparative thesis on self-diagnosable testing.
 
-Mechanical fundic ballooning → exaggerated vagal afferent traffic → brainstem-mediated, rhythmically disordered LES relaxation + phrenic inhibition of the crural diaphragm → repeated loss of the antireflux barrier → retrograde reflux + secondary neural sensitization.
-
 In plain language:
 
-Severe GERD is framed as a nerve disorder (vagus–phrenic coordination failure) rather than a primary stomach-acid disorder. Persistent or rhythmic distension of the gastric fundus is proposed to drive a self-reinforcing overeactive feedback loop of  transient lower-esophageal-sphincter relaxations (TLESRs) and loss of crural-diaphragm tone.  
+Severe GERD is framed as a nerve disorder (vagus–phrenic coordination failure) rather than a primary stomach-acid disorder. Persistent or rhythmic distension of the gastric fundus is proposed to drive a self-reinforcing overeactive feedback loop of  transient lower-esophageal-sphincter relaxations (TLESRs) and loss of crural-diaphragm tone.
 
 # Vagus-Phrenic Rhythmic Feedback-Loop
 
@@ -17,7 +15,6 @@ Mechanical fundic ballooning
 → repeated loss of the antireflux barrier  
 → retrograde reflux and secondary neural sensitization.
 
-Severe GERD is framed as a nerve disorder (vagus-phrenic coordination failure) rather than a primary stomach-acid disorder.
 
 **Intervention under the hypothesis:**  
 Hot broth applied as temperature control to interrupt the dysrhythmia and mitigate symptoms.
