@@ -26,15 +26,41 @@ The hypothesis is presented in the same spirit as other low-stakes, patient-obse
 
 Example: Causal Chain Output (abbreviated)
 
-Step   Stage                               Value  Description
-1      1. Fundic ballooning                 0.88  Mechanical stretch of proximal stomach
-2      2. Vagal afferent traffic            1.00  Stretch receptors → high-frequency vagal signals
-3      3. Brainstem drive                   1.00  NTS integrates signal → disordered motor commands
-4a     4a. LES tone                         0.00  Vagal efferent → transient LES relaxation
-4b     4b. Crural diaphragm tone            0.05  Phrenic inhibition → loss of diaphragmatic barrier
-5      5. Antireflux barrier                0.02  Combined LES + crural pressure collapses
-6      6. Retrograde reflux                 0.18  Gastric contents flow into esophagus
-7      7. Neural sensitization              0.07  Vagal afferents become hyper-responsive (feedback)
+Step   Stage 
+
+Value  Description
+
+1      1. Fundic ballooning
+
+0.88  Mechanical stretch of proximal stomach
+
+2      2. Vagal afferent traffic            
+
+1.00  Stretch receptors → high-frequency vagal signals
+
+3      3. Brainstem drive                   
+
+1.00  NTS integrates signal → disordered motor commands
+
+4a     4a. LES tone                         
+
+0.00  Vagal efferent → transient LES relaxation
+
+4b     4b. Crural diaphragm tone            
+
+0.05  Phrenic inhibition → loss of diaphragmatic barrier
+
+5      5. Antireflux barrier                
+
+0.02  Combined LES + crural pressure collapses
+
+6      6. Retrograde reflux                 
+
+0.18  Gastric contents flow into esophagus
+
+7      7. Neural sensitization              
+
+0.07  Vagal afferents become hyper-responsive (feedback)
 
 Self-Diagnosable Testing Thesis
 
