@@ -24,49 +24,27 @@ Hot broth applied as temperature control to interrupt the dysrhythmia and mitiga
 
 The hypothesis is presented in the same spirit as other low-stakes, patient-observable patterns (e.g., lactose intolerance elimination-challenge).
 
-Example: Causal Chain Output (abbreviated)
-
-Stage 
-
-Value / Description
-
-1. Fundic ballooning
-
-0.88 / Mechanical stretch of proximal stomach
-
-2. Vagal afferent traffic            
-
-1.00 / Stretch receptors → high-frequency vagal signals
-
-3. Brainstem drive                   
-
-1.00 / NTS integrates signal → disordered motor commands
-
-4a. LES tone                         
-
-0.00 / Vagal efferent → transient LES relaxation
-
-4b. Crural diaphragm tone            
-
-0.05 / Phrenic inhibition → loss of diaphragmatic barrier
-
-5. Antireflux barrier                
-
-0.02 / Combined LES + crural pressure collapses
-
-6. Retrograde reflux                 
-
-0.18 / Gastric contents flow into esophagus
-
-7. Neural sensitization              
-
-0.07 / Vagal afferents become hyper-responsive (feedback)
 
 Self-Diagnosable Testing Thesis
 
 A short comparative analysis examines when patient-led testing is reasonable:
 
 The lactose-intolerance pattern (clear, reversible, low-stakes cause-and-effect) is used as an analogy for why some people might attempt self-observation of the proposed reflux loop. The bee-sting pattern illustrates the opposite pole, where self-testing is unsafe or insufficient.  
+Yes, that’s the key distinction.
 
+Standard GERD dietary guidance includes low-fat plain vegetable, chicken, or carefully skimmed bone broth primarily because of its composition and physical properties:
+Low fat (avoids delaying gastric emptying and reducing LES pressure)
+Mild, non-acidic, easy to digest
+Hydrating and generally non-irritating when served warm (not scalding)
+
+The temperature recommendation in those sources is almost always “warm, not hot,” for comfort and to avoid thermal irritation of the esophageal mucosa. It is not framed as a way to correct a rhythmic neuromuscular dysrhythmia involving vagal afferents, brainstem integration, TLESRs, and phrenic/crural diaphragm coordination.
+
+The repository’s hypothesis proposes an entirely different causation and mechanism: extreme or carefully timed temperature (specifically hot broth applied to the esophagus) is claimed to act as a thermal interrupt that disrupts the proposed positive-feedback vagus–phrenic loop / dysrhythmia. That specific explanation—temperature as a circuit-breaker for a self-reinforcing autonomic coordination failure—is original to the hypothesis and is not part of conventional GERD pathophysiology or treatment literature.
+
+In short:
+Conventional view → broth helps (when it does) mainly via low-fat, gentle composition + mild warmth.
+Hypothesis view → the temperature itself is the active mitigator of the dysrhythmia.
+
+The practical step of trying warm (comfortably warm) low-fat broth for a short period remains low-risk for many people and consistent with ordinary dietary self-management. The stronger claim that the temperature specifically resets a vagus–phrenic dysrhythm remains easily validatable its only broth and alleviation of symptoms. If symptoms are significantly persist afyer an entire week of application, the standard next step is still formal evaluation by a physician.
 
 Last updated: 2026
