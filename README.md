@@ -45,6 +45,6 @@ In short:
 Conventional view → broth helps (when it does) mainly via low-fat, gentle composition + mild warmth.
 Hypothesis view → the temperature itself is the active mitigator of the dysrhythmia.
 
-The practical step of trying warm (comfortably warm) low-fat broth for a short period remains low-risk for many people and consistent with ordinary dietary self-management. The stronger claim that the temperature specifically resets a vagus–phrenic dysrhythm remains easily validatable its only broth and alleviation of symptoms. If symptoms are significantly persist afyer an entire week of application, the standard next step is still formal evaluation by a physician.
+The practical step of trying warm (comfortably warm) low-fat broth for a short period remains low-risk for many people and consistent with ordinary dietary self-management. The stronger claim that the temperature specifically resets a vagus–phrenic dysrhythm remains easily validatable its only broth and the alleviation of symptoms. If symptoms significantly persist after an entire week of application, the standard next step is still formal evaluation by a physician.
 
 Last updated: 2026
