@@ -1,5 +1,5 @@
 # Gastroesophageal-Reflux-Disease-
-An alternative self-diagnosable holistic hypothesis to/for the stomach disorder.
+An alternative self-diagnosable holistic hypothesis for the stomach disorder.
 Vagus-Phrenic Rhythmic Feedback-Loop Hypothesis for GERD
 
 This repository documents a proposed neuromuscular hypothesis for severe gastroesophageal reflux and provides simple, pure-Python simulations of the hypothesized causal chain. It also includes a short comparative thesis on self-diagnosable testing.
